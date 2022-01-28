@@ -1,0 +1,59 @@
+
+body {
+    background: url(pixel.jpeg);
+}
+
+.contenedor {
+    background-image: url(pixels.jpeg);
+    padding: 20px;
+    margin: 20px;
+    border-radius: 20px;
+    border-style: solid;
+    border-width: 5px 5px 5px 5px;
+}
+
+.argumento {
+    background-image: url(pixels.jpeg);
+    padding: 20px;
+    margin: 20px;
+    border-radius: 300px;
+    border-style: solid;
+    border-width: 5px 5px 5px 5px;
+}
+
+.contenedor2 {
+    background:url(pixels.jpeg);
+    padding: 20px;
+    margin: 20px;
+    border-radius: 30px;
+    border-style: solid;
+    border-width: 5px 5px 5px 5px;
+}
+
+input {
+    border-radius: 20px;
+    border-style: solid;
+    border-width: 5px 5px 5px 5px;
+    border-color: black;
+}
+
+button {
+    border-radius: 30px;
+    background:hsla(231, 4%, 66%, 0.443);
+    border-color: rgb(10, 8, 6);
+}
+
+h1 {
+    border-radius: 230px;
+}
+
+.contacto {
+    background-image: url(imagenz.jpg);
+}
+
+.verde {
+    border-radius: 20px;
+    border-color: blue;
+    color: #fff8dc;
+    background: #fff8dc;
+}
